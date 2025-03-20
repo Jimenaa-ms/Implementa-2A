@@ -11,4 +11,6 @@ for c in texto:
     else:
         cifrad+=c
 print("Texto cifrado: ", cifrad)
+
+#a este no le entendi
                     
