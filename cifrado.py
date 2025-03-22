@@ -13,4 +13,5 @@ for c in texto:
 print("Texto cifrado: ", cifrad)
 
 #a este no le entendi
+#no se como ponerlo 🫣😭😭
                     
